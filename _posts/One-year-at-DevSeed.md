@@ -18,3 +18,6 @@ We’ll be talking about [GeoLLMs](https://developmentseed.org/blog/2025-01-29-l
 
 If you’re in DC next week, come say hi to me and meet the team at our [happy hour](https://lu.ma/e230t38z?tk=qbMnrz)!
 
+![Gemini_Generated_Image_kem980kem980kem9](https://github.com/user-attachments/assets/aff76f0d-fa32-46b0-abeb-1fa0f97fd5e4)
+
+
